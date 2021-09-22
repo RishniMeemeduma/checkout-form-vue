@@ -3,6 +3,13 @@
 ## Project setup
 ```
 npm install
+npm i vue-router
+npm i bootstrap
+npm i vuex
+npm i axios
+npm i font-awesome
+npm i bulma
+npm i eslint-loader
 ```
 
 ### Compiles and hot-reloads for development
@@ -22,3 +29,5 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+and clone and run cart-api project to get product data using api
