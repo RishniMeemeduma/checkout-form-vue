@@ -30,4 +30,4 @@ npm run lint
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
-and clone and run cart-api project to get product data using api
+and clone and run https://github.com/RishniMeemeduma/cart-backend-api-request project to get product data using api
